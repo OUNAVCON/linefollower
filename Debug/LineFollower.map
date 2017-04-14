@@ -1,0 +1,1994 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+                              src\Timer.o (__aeabi_uidiv)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-errno.o)
+                              system\src\newlib\_sbrk.o (__errno)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-errno.o) (_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-printf.o)
+                              system\src\kl25-sc\rcm.o (printf)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-strlen.o)
+                              system\src\diag\Trace.o (strlen)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-vsnprintf.o)
+                              system\src\diag\Trace.o (vsnprintf)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-printf.o) (__sinit)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fwalk.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o) (_fwalk)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o) (memset)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o) (_malloc_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-vsnprintf.o) (_svfprintf_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-printf.o) (_vfprintf_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o) (__sread)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wbuf.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-writer.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o) (_write_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wsetup.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-closer.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o) (_close_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fflush.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o) (_fflush_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fvwrite.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-lseekr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o) (_lseek_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-makebuf.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memchr-stub.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o) (memchr)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memcpy-stub.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o) (memcpy)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memmove.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o) (memmove)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-mlock.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o) (__malloc_lock)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-freer.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_free_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-reallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-readr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o) (_read_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fstatr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-isattyr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-msizer.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fvwrite.o) (__aeabi_idiv)
+
+Allocating common symbols
+Common symbol       size              file
+
+timer_delayCount    0x4               src\Timer.o
+errno               0x4               system\src\newlib\_syscalls.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 src\BlinkLed.o
+ .group         0x00000000        0x8 src\BlinkLed.o
+ .group         0x00000000        0x8 src\BlinkLed.o
+ .group         0x00000000        0x8 src\BlinkLed.o
+ .group         0x00000000        0x8 src\BlinkLed.o
+ .group         0x00000000        0x8 src\BlinkLed.o
+ .group         0x00000000        0x8 src\BlinkLed.o
+ .group         0x00000000        0x8 src\BlinkLed.o
+ .text          0x00000000        0x0 src\BlinkLed.o
+ .data          0x00000000        0x0 src\BlinkLed.o
+ .bss           0x00000000        0x0 src\BlinkLed.o
+ .group         0x00000000        0x8 src\Timer.o
+ .group         0x00000000        0x8 src\Timer.o
+ .group         0x00000000        0x8 src\Timer.o
+ .group         0x00000000        0x8 src\Timer.o
+ .group         0x00000000        0x8 src\Timer.o
+ .group         0x00000000        0x8 src\Timer.o
+ .group         0x00000000        0x8 src\Timer.o
+ .group         0x00000000        0x8 src\Timer.o
+ .text          0x00000000        0x0 src\Timer.o
+ .data          0x00000000        0x0 src\Timer.o
+ .bss           0x00000000        0x0 src\Timer.o
+ .debug_macro   0x00000000      0x8a4 src\Timer.o
+ .debug_macro   0x00000000       0x34 src\Timer.o
+ .debug_macro   0x00000000      0x34e src\Timer.o
+ .debug_macro   0x00000000       0x35 src\Timer.o
+ .debug_macro   0x00000000       0x26 src\Timer.o
+ .debug_macro   0x00000000      0x329 src\Timer.o
+ .debug_macro   0x00000000     0x3df3 src\Timer.o
+ .group         0x00000000        0x8 src\_write.o
+ .text          0x00000000        0x0 src\_write.o
+ .data          0x00000000        0x0 src\_write.o
+ .bss           0x00000000        0x0 src\_write.o
+ .debug_info    0x00000000       0x21 src\_write.o
+ .debug_abbrev  0x00000000       0x13 src\_write.o
+ .debug_aranges
+                0x00000000       0x18 src\_write.o
+ .debug_macro   0x00000000       0x11 src\_write.o
+ .debug_macro   0x00000000      0x8a4 src\_write.o
+ .debug_line    0x00000000       0x30 src\_write.o
+ .debug_str     0x00000000     0x24f6 src\_write.o
+ .comment       0x00000000       0x80 src\_write.o
+ .ARM.attributes
+                0x00000000       0x32 src\_write.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .text          0x00000000        0x0 src\main.o
+ .data          0x00000000        0x0 src\main.o
+ .bss           0x00000000        0x0 src\main.o
+ .debug_macro   0x00000000      0x8a4 src\main.o
+ .debug_macro   0x00000000       0x34 src\main.o
+ .debug_macro   0x00000000      0x34e src\main.o
+ .debug_macro   0x00000000       0x35 src\main.o
+ .debug_macro   0x00000000       0x26 src\main.o
+ .debug_macro   0x00000000      0x329 src\main.o
+ .debug_macro   0x00000000     0x3df3 src\main.o
+ .debug_macro   0x00000000       0x2e src\main.o
+ .group         0x00000000        0x8 system\src\cmsis\system_MKL25Z4.o
+ .group         0x00000000        0x8 system\src\cmsis\system_MKL25Z4.o
+ .group         0x00000000        0x8 system\src\cmsis\system_MKL25Z4.o
+ .group         0x00000000        0x8 system\src\cmsis\system_MKL25Z4.o
+ .group         0x00000000        0x8 system\src\cmsis\system_MKL25Z4.o
+ .group         0x00000000        0x8 system\src\cmsis\system_MKL25Z4.o
+ .group         0x00000000        0x8 system\src\cmsis\system_MKL25Z4.o
+ .text          0x00000000        0x0 system\src\cmsis\system_MKL25Z4.o
+ .data          0x00000000        0x0 system\src\cmsis\system_MKL25Z4.o
+ .bss           0x00000000        0x0 system\src\cmsis\system_MKL25Z4.o
+ .debug_macro   0x00000000      0x8a4 system\src\cmsis\system_MKL25Z4.o
+ .debug_macro   0x00000000      0x34e system\src\cmsis\system_MKL25Z4.o
+ .debug_macro   0x00000000       0x34 system\src\cmsis\system_MKL25Z4.o
+ .debug_macro   0x00000000       0x26 system\src\cmsis\system_MKL25Z4.o
+ .debug_macro   0x00000000      0x329 system\src\cmsis\system_MKL25Z4.o
+ .debug_macro   0x00000000     0x3df3 system\src\cmsis\system_MKL25Z4.o
+ .group         0x00000000        0x8 system\src\cmsis\vectors_MKL25Z4.o
+ .group         0x00000000        0x8 system\src\cmsis\vectors_MKL25Z4.o
+ .text          0x00000000        0x0 system\src\cmsis\vectors_MKL25Z4.o
+ .data          0x00000000        0x0 system\src\cmsis\vectors_MKL25Z4.o
+ .bss           0x00000000        0x0 system\src\cmsis\vectors_MKL25Z4.o
+ .debug_macro   0x00000000      0x8a4 system\src\cmsis\vectors_MKL25Z4.o
+ .debug_macro   0x00000000      0x34e system\src\cmsis\vectors_MKL25Z4.o
+ .group         0x00000000        0x8 system\src\cortexm\_initialize_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_initialize_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_initialize_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_initialize_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_initialize_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_initialize_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_initialize_hardware.o
+ .text          0x00000000        0x0 system\src\cortexm\_initialize_hardware.o
+ .data          0x00000000        0x0 system\src\cortexm\_initialize_hardware.o
+ .bss           0x00000000        0x0 system\src\cortexm\_initialize_hardware.o
+ .debug_macro   0x00000000      0x8a4 system\src\cortexm\_initialize_hardware.o
+ .debug_macro   0x00000000       0x34 system\src\cortexm\_initialize_hardware.o
+ .debug_macro   0x00000000      0x34e system\src\cortexm\_initialize_hardware.o
+ .debug_macro   0x00000000       0x35 system\src\cortexm\_initialize_hardware.o
+ .debug_macro   0x00000000       0x26 system\src\cortexm\_initialize_hardware.o
+ .debug_macro   0x00000000      0x329 system\src\cortexm\_initialize_hardware.o
+ .debug_macro   0x00000000     0x3df3 system\src\cortexm\_initialize_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_reset_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_reset_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_reset_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_reset_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_reset_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_reset_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\_reset_hardware.o
+ .text          0x00000000        0x0 system\src\cortexm\_reset_hardware.o
+ .data          0x00000000        0x0 system\src\cortexm\_reset_hardware.o
+ .bss           0x00000000        0x0 system\src\cortexm\_reset_hardware.o
+ .text.__reset_hardware
+                0x00000000       0x1c system\src\cortexm\_reset_hardware.o
+ .debug_info    0x00000000      0x1a8 system\src\cortexm\_reset_hardware.o
+ .debug_abbrev  0x00000000       0xff system\src\cortexm\_reset_hardware.o
+ .debug_aranges
+                0x00000000       0x20 system\src\cortexm\_reset_hardware.o
+ .debug_ranges  0x00000000       0x10 system\src\cortexm\_reset_hardware.o
+ .debug_macro   0x00000000       0x7b system\src\cortexm\_reset_hardware.o
+ .debug_macro   0x00000000      0x8a4 system\src\cortexm\_reset_hardware.o
+ .debug_macro   0x00000000       0x34 system\src\cortexm\_reset_hardware.o
+ .debug_macro   0x00000000      0x34e system\src\cortexm\_reset_hardware.o
+ .debug_macro   0x00000000       0x35 system\src\cortexm\_reset_hardware.o
+ .debug_macro   0x00000000       0x26 system\src\cortexm\_reset_hardware.o
+ .debug_macro   0x00000000      0x329 system\src\cortexm\_reset_hardware.o
+ .debug_macro   0x00000000     0x3df3 system\src\cortexm\_reset_hardware.o
+ .debug_line    0x00000000      0x17a system\src\cortexm\_reset_hardware.o
+ .debug_str     0x00000000    0x17629 system\src\cortexm\_reset_hardware.o
+ .comment       0x00000000       0x80 system\src\cortexm\_reset_hardware.o
+ .debug_frame   0x00000000       0x20 system\src\cortexm\_reset_hardware.o
+ .ARM.attributes
+                0x00000000       0x32 system\src\cortexm\_reset_hardware.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\cortexm\exception_handlers.o
+ .text          0x00000000        0x0 system\src\cortexm\exception_handlers.o
+ .data          0x00000000        0x0 system\src\cortexm\exception_handlers.o
+ .bss           0x00000000        0x0 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000      0x8a4 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000      0x34e system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x34 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x3b system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x26 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000      0x329 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000     0x3df3 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x22 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x52 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x8d system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x35 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x9c system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x57 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000      0x30d system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x10 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x58 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x1f system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x43 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x20 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x6a system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x1c system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x52 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x40 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x10 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x40 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0xd7 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000      0x51a system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000      0x187 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00000000       0x35 system\src\cortexm\exception_handlers.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\Trace.o
+ .text          0x00000000        0x0 system\src\diag\Trace.o
+ .data          0x00000000        0x0 system\src\diag\Trace.o
+ .bss           0x00000000        0x0 system\src\diag\Trace.o
+ .text.trace_putchar
+                0x00000000       0x14 system\src\diag\Trace.o
+ .text.trace_dump_args
+                0x00000000       0x48 system\src\diag\Trace.o
+ .rodata.trace_dump_args.str1.4
+                0x00000000       0x29 system\src\diag\Trace.o
+ .debug_macro   0x00000000      0x8a4 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x22 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x52 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x8d system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x35 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x9c system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x16 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x57 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x97 system\src\diag\Trace.o
+ .debug_macro   0x00000000      0x30d system\src\diag\Trace.o
+ .debug_macro   0x00000000       0xfd system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x10 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x58 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x1f system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x43 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x20 system\src\diag\Trace.o
+ .debug_macro   0x00000000      0x187 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x10 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x6a system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x1c system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x52 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x40 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x10 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x40 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0xd7 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x16 system\src\diag\Trace.o
+ .debug_macro   0x00000000      0x18b system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x16 system\src\diag\Trace.o
+ .debug_macro   0x00000000       0x35 system\src\diag\Trace.o
+ .debug_macro   0x00000000      0x51a system\src\diag\Trace.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\diag\trace_impl.o
+ .text          0x00000000        0x0 system\src\diag\trace_impl.o
+ .data          0x00000000        0x0 system\src\diag\trace_impl.o
+ .bss           0x00000000        0x0 system\src\diag\trace_impl.o
+ .text.trace_initialize
+                0x00000000        0x2 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000      0x8a4 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x34 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000      0x34e system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x35 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x26 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000      0x329 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000     0x3df3 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x22 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x52 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x8d system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x35 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x9c system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x10 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x57 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0xcf system\src\diag\trace_impl.o
+ .debug_macro   0x00000000      0x30d system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x10 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0xbe system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x58 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x1f system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x43 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x20 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x6a system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x1c system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x52 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x40 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x10 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x40 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0xd7 system\src\diag\trace_impl.o
+ .debug_macro   0x00000000      0x51a system\src\diag\trace_impl.o
+ .debug_macro   0x00000000       0x22 system\src\diag\trace_impl.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\kl25-sc\rcm.o
+ .text          0x00000000        0x0 system\src\kl25-sc\rcm.o
+ .data          0x00000000        0x0 system\src\kl25-sc\rcm.o
+ .bss           0x00000000        0x0 system\src\kl25-sc\rcm.o
+ .text.outSRS   0x00000000      0x1b8 system\src\kl25-sc\rcm.o
+ .rodata.outSRS.str1.4
+                0x00000000      0x1bb system\src\kl25-sc\rcm.o
+ .debug_info    0x00000000      0xb56 system\src\kl25-sc\rcm.o
+ .debug_abbrev  0x00000000      0x1e8 system\src\kl25-sc\rcm.o
+ .debug_aranges
+                0x00000000       0x20 system\src\kl25-sc\rcm.o
+ .debug_ranges  0x00000000       0x10 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000      0x25a system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000      0x8a4 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x40 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x8e system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x3a system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x34 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000      0x34e system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x35 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x26 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000      0x329 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000     0x3df3 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000     0x200d system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x22 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x52 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x8d system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x35 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x9c system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x16 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x57 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x97 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000      0x30d system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0xfd system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x10 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x58 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x1f system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x43 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x20 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000      0x187 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x10 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x6a system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x1c system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x52 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x40 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x10 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x40 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0xd7 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x16 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000      0x18b system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x16 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x35 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x16 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x29 system\src\kl25-sc\rcm.o
+ .debug_macro   0x00000000       0x35 system\src\kl25-sc\rcm.o
+ .debug_line    0x00000000      0x483 system\src\kl25-sc\rcm.o
+ .debug_str     0x00000000    0x276f9 system\src\kl25-sc\rcm.o
+ .comment       0x00000000       0x80 system\src\kl25-sc\rcm.o
+ .debug_frame   0x00000000       0x28 system\src\kl25-sc\rcm.o
+ .ARM.attributes
+                0x00000000       0x32 system\src\kl25-sc\rcm.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_cxx.o
+ .text          0x00000000        0x0 system\src\newlib\_cxx.o
+ .data          0x00000000        0x0 system\src\newlib\_cxx.o
+ .bss           0x00000000        0x0 system\src\newlib\_cxx.o
+ .text._ZN9__gnu_cxx27__verbose_terminate_handlerEv
+                0x00000000       0x10 system\src\newlib\_cxx.o
+ .text.__cxa_pure_virtual
+                0x00000000       0x10 system\src\newlib\_cxx.o
+ .rodata._ZZ18__cxa_pure_virtualE8__func__
+                0x00000000       0x13 system\src\newlib\_cxx.o
+ .rodata._ZZN9__gnu_cxx27__verbose_terminate_handlerEvE8__func__
+                0x00000000       0x1c system\src\newlib\_cxx.o
+ .debug_info    0x00000000      0xfcd system\src\newlib\_cxx.o
+ .debug_abbrev  0x00000000      0x2f9 system\src\newlib\_cxx.o
+ .debug_aranges
+                0x00000000       0x28 system\src\newlib\_cxx.o
+ .debug_ranges  0x00000000       0x18 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000      0x1d8 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000      0x946 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000      0x143 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000      0x3c3 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x22 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x8d system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x35 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x9c system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x16 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000      0x10e system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x94 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x57 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x58 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x1f system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x43 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x20 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000      0x187 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000      0x337 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x16 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x29 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0xea system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x6a system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x1c system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0xd7 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x16 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000       0x35 system\src\newlib\_cxx.o
+ .debug_macro   0x00000000      0x51a system\src\newlib\_cxx.o
+ .debug_line    0x00000000      0x48e system\src\newlib\_cxx.o
+ .debug_str     0x00000000     0x8f51 system\src\newlib\_cxx.o
+ .comment       0x00000000       0x80 system\src\newlib\_cxx.o
+ .debug_frame   0x00000000       0x40 system\src\newlib\_cxx.o
+ .ARM.attributes
+                0x00000000       0x32 system\src\newlib\_cxx.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_exit.o
+ .text          0x00000000        0x0 system\src\newlib\_exit.o
+ .data          0x00000000        0x0 system\src\newlib\_exit.o
+ .bss           0x00000000        0x0 system\src\newlib\_exit.o
+ .text.abort    0x00000000       0x14 system\src\newlib\_exit.o
+ .rodata.abort.str1.4
+                0x00000000       0x14 system\src\newlib\_exit.o
+ .debug_macro   0x00000000      0x8a4 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x22 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x8d system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x35 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x9c system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x16 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x57 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x58 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x1f system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x43 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x20 system\src\newlib\_exit.o
+ .debug_macro   0x00000000      0x187 system\src\newlib\_exit.o
+ .debug_macro   0x00000000      0x30d system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x16 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x29 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x16 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x35 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x6a system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x1c system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\_exit.o
+ .debug_macro   0x00000000       0xd7 system\src\newlib\_exit.o
+ .debug_macro   0x00000000      0x51a system\src\newlib\_exit.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_sbrk.o
+ .text          0x00000000        0x0 system\src\newlib\_sbrk.o
+ .data          0x00000000        0x0 system\src\newlib\_sbrk.o
+ .bss           0x00000000        0x0 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000      0x8a4 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x22 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x8d system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x35 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x9c system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x57 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000      0x30d system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x58 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x1f system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x43 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x20 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x6a system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x1c system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000       0xd7 system\src\newlib\_sbrk.o
+ .debug_macro   0x00000000      0x187 system\src\newlib\_sbrk.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_startup.o
+ .text          0x00000000        0x0 system\src\newlib\_startup.o
+ .data          0x00000000        0x0 system\src\newlib\_startup.o
+ .bss           0x00000000        0x0 system\src\newlib\_startup.o
+ .text.__initialize_data
+                0x00000000       0x10 system\src\newlib\_startup.o
+ .text.__initialize_bss
+                0x00000000        0xe system\src\newlib\_startup.o
+ .text.__run_init_array
+                0x00000000       0x48 system\src\newlib\_startup.o
+ .text.__run_fini_array
+                0x00000000       0x24 system\src\newlib\_startup.o
+ .debug_macro   0x00000000      0x8a4 system\src\newlib\_startup.o
+ .debug_macro   0x00000000      0x34e system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x22 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x8d system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x35 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x9c system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x57 system\src\newlib\_startup.o
+ .debug_macro   0x00000000      0x174 system\src\newlib\_startup.o
+ .debug_macro   0x00000000      0x30d system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x58 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x1f system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x43 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x20 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x6a system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x1c system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\_startup.o
+ .debug_macro   0x00000000       0xd7 system\src\newlib\_startup.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\_syscalls.o
+ .text          0x00000000        0x0 system\src\newlib\_syscalls.o
+ .data          0x00000000        0x0 system\src\newlib\_syscalls.o
+ .bss           0x00000000        0x0 system\src\newlib\_syscalls.o
+ .text.raise    0x00000000       0x10 system\src\newlib\_syscalls.o
+ .text.kill     0x00000000       0x10 system\src\newlib\_syscalls.o
+ .bss.__dso_handle
+                0x00000000        0x4 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000      0x8a4 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x22 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x8d system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x35 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x9c system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000      0x174 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x57 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x58 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x1f system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x43 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x20 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000      0x187 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000      0x23b system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000      0x30d system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x35 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x6a system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x1c system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\_syscalls.o
+ .debug_macro   0x00000000       0xd7 system\src\newlib\_syscalls.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .group         0x00000000        0x8 system\src\newlib\assert.o
+ .text          0x00000000        0x0 system\src\newlib\assert.o
+ .data          0x00000000        0x0 system\src\newlib\assert.o
+ .bss           0x00000000        0x0 system\src\newlib\assert.o
+ .text.__assert_func
+                0x00000000       0x38 system\src\newlib\assert.o
+ .rodata.__assert_func.str1.4
+                0x00000000       0x43 system\src\newlib\assert.o
+ .debug_info    0x00000000      0x988 system\src\newlib\assert.o
+ .debug_abbrev  0x00000000      0x1f3 system\src\newlib\assert.o
+ .debug_loc     0x00000000       0xc6 system\src\newlib\assert.o
+ .debug_aranges
+                0x00000000       0x20 system\src\newlib\assert.o
+ .debug_ranges  0x00000000       0x10 system\src\newlib\assert.o
+ .debug_macro   0x00000000      0x1c3 system\src\newlib\assert.o
+ .debug_macro   0x00000000      0x8a4 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x22 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x8d system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x35 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x9c system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x1c system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x16 system\src\newlib\assert.o
+ .debug_macro   0x00000000      0x10e system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x8d system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x57 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x58 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x1f system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x43 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x20 system\src\newlib\assert.o
+ .debug_macro   0x00000000      0x187 system\src\newlib\assert.o
+ .debug_macro   0x00000000      0x30d system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x16 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x29 system\src\newlib\assert.o
+ .debug_macro   0x00000000      0x34e system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x16 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x35 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x6a system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x1c system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x52 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x10 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0x40 system\src\newlib\assert.o
+ .debug_macro   0x00000000       0xd7 system\src\newlib\assert.o
+ .debug_macro   0x00000000      0x51a system\src\newlib\assert.o
+ .debug_line    0x00000000      0x391 system\src\newlib\assert.o
+ .debug_str     0x00000000     0x7f32 system\src\newlib\assert.o
+ .comment       0x00000000       0x80 system\src\newlib\assert.o
+ .debug_frame   0x00000000       0x2c system\src\newlib\assert.o
+ .ARM.attributes
+                0x00000000       0x32 system\src\newlib\assert.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-printf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-printf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-printf.o)
+ .text.printf   0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-printf.o)
+ .debug_frame   0x00000000       0x50 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-printf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-vsnprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-vsnprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-vsnprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.std.isra.0
+                0x00000000       0x48 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit  0x00000000       0x68 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp    0x00000000       0x80 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0x2 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0x2 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x00000000        0x2 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x00000000        0x2 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fwalk.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fwalk.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x00000000       0x38 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk_reent
+                0x00000000       0x42 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000000       0x58 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fwalk.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xfc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputc_r
+                0x00000000       0x2a c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text._vfprintf_r
+                0x00000000      0x238 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .rodata._vfprintf_r.str1.1
+                0x00000000       0x11 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x00000000       0x9c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+ .text.__sread  0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+ .text.__sseek  0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+ .text.__sclose
+                0x00000000        0xc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000000       0x90 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-stdio.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wbuf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wbuf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wbuf.o)
+ .text.__swbuf_r
+                0x00000000       0xac c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x00000000       0x14 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x00000000       0x48 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wbuf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-writer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-writer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-writer.o)
+ .text._write_r
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-writer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wsetup.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wsetup.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wsetup.o)
+ .text.__swsetup_r
+                0x00000000       0xec c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-wsetup.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-closer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-closer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-closer.o)
+ .text._close_r
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-closer.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-closer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fflush.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fflush.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x114 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x58 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fflush.o)
+ .text.fflush   0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000000       0x68 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fflush.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fvwrite.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fvwrite.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x00000000      0x2c4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fvwrite.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-lseekr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-lseekr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-lseekr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-makebuf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-makebuf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x00000000       0x50 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-makebuf.o)
+ .text.__smakebuf_r
+                0x00000000       0x88 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x00000000       0x54 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-makebuf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memchr-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memchr-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memchr-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-readr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-readr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-readr.o)
+ .text._read_r  0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-readr.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-readr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fstatr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fstatr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-fstatr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-isattyr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-isattyr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-isattyr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .text          0x00000000      0x1d4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x1ffff000         0x00004000         xrw
+FLASH            0x00000000         0x00020000         xr
+CCMRAM           0x00000000         0x00000000         xrw
+FLASHB1          0x00000000         0x00000000         xr
+EXTMEMB0         0x00000000         0x00000000         xr
+EXTMEMB1         0x00000000         0x00000000         xr
+EXTMEMB2         0x00000000         0x00000000         xr
+EXTMEMB3         0x00000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD src\BlinkLed.o
+LOAD src\Timer.o
+LOAD src\_write.o
+LOAD src\main.o
+LOAD system\src\cmsis\system_MKL25Z4.o
+LOAD system\src\cmsis\vectors_MKL25Z4.o
+LOAD system\src\cortexm\_initialize_hardware.o
+LOAD system\src\cortexm\_reset_hardware.o
+LOAD system\src\cortexm\exception_handlers.o
+LOAD system\src\diag\Trace.o
+LOAD system\src\diag\trace_impl.o
+LOAD system\src\kl25-sc\rcm.o
+LOAD system\src\newlib\_cxx.o
+LOAD system\src\newlib\_exit.o
+LOAD system\src\newlib\_sbrk.o
+LOAD system\src\newlib\_startup.o
+LOAD system\src\newlib\_syscalls.o
+LOAD system\src\newlib\assert.o
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libstdc++_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a
+END GROUP
+                0x20003000                __stack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20003000                _estack = __stack
+                0x00000400                __Main_Stack_Size = 0x400
+                [!provide]                PROVIDE (_Main_Stack_Size, __Main_Stack_Size)
+                0x20002c00                __Main_Stack_Limit = (__stack - __Main_Stack_Size)
+                [!provide]                PROVIDE (_Main_Stack_Limit, __Main_Stack_Limit)
+                0x00000100                _Minimum_Stack_Size = 0x100
+                0x1ffff118                PROVIDE (_Heap_Begin, _end_noinit)
+                0x20002c00                PROVIDE (_Heap_Limit, (__stack - __Main_Stack_Size))
+
+.isr_vector     0x00000000      0x57c
+ FILL mask 0xff
+                0x00000000                __vectors_start = ABSOLUTE (.)
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x400 system\src\cmsis\vectors_MKL25Z4.o
+                0x00000000                gHandlers
+ *(.cfmconfig)
+ .cfmconfig     0x00000400       0x10 system\src\cmsis\vectors_MKL25Z4.o
+                0x00000400                gConfigs
+ *(.after_vectors .after_vectors.*)
+ .after_vectors
+                0x00000410        0x4 system\src\cmsis\vectors_MKL25Z4.o
+                0x00000410                I2C0_IRQHandler
+                0x00000410                I2C1_IRQHandler
+                0x00000410                UART1_IRQHandler
+                0x00000410                DMA2_IRQHandler
+                0x00000410                TPM0_IRQHandler
+                0x00000410                TSI0_IRQHandler
+                0x00000410                UART0_IRQHandler
+                0x00000410                ADC0_IRQHandler
+                0x00000410                Reserved39_IRQHandler
+                0x00000410                SPI1_IRQHandler
+                0x00000410                PORTD_IRQHandler
+                0x00000410                TPM2_IRQHandler
+                0x00000410                LPTimer_IRQHandler
+                0x00000410                RTC_IRQHandler
+                0x00000410                RTC_Seconds_IRQHandler
+                0x00000410                MCG_IRQHandler
+                0x00000410                UART2_IRQHandler
+                0x00000410                Reserved20_IRQHandler
+                0x00000410                Default_Handler
+                0x00000410                USB0_IRQHandler
+                0x00000410                LLW_IRQHandler
+                0x00000410                PIT_IRQHandler
+                0x00000410                DMA3_IRQHandler
+                0x00000410                DMA0_IRQHandler
+                0x00000410                DAC0_IRQHandler
+                0x00000410                Reserved45_IRQHandler
+                0x00000410                TPM1_IRQHandler
+                0x00000410                LVD_LVW_IRQHandler
+                0x00000410                SPI0_IRQHandler
+                0x00000410                PORTA_IRQHandler
+                0x00000410                FTFA_IRQHandler
+                0x00000410                CMP0_IRQHandler
+                0x00000410                DMA1_IRQHandler
+ .after_vectors
+                0x00000414       0x50 system\src\cortexm\exception_handlers.o
+                0x00000414                Reset_Handler
+                0x0000041a                NMI_Handler
+                0x0000041e                HardFault_Handler
+                0x00000436                HardFault_Handler_C
+                0x00000454                SVC_Handler
+                0x00000458                PendSV_Handler
+ .after_vectors
+                0x00000464      0x118 system\src\newlib\_startup.o
+                0x00000464                _start
+
+.inits          0x0000057c       0x28
+                0x0000057c                __data_regions_array_start = .
+                0x0000057c        0x4 LONG 0x152c LOADADDR (.data)
+                0x00000580        0x4 LONG 0x1ffff000 ADDR (.data)
+                0x00000584        0x4 LONG 0x1ffff078 (ADDR (.data) + SIZEOF (.data))
+                0x00000588        0x4 LONG 0x152c LOADADDR (.data_CCMRAM)
+                0x0000058c        0x4 LONG 0x0 ADDR (.data_CCMRAM)
+                0x00000590        0x4 LONG 0x0 (ADDR (.data_CCMRAM) + SIZEOF (.data_CCMRAM))
+                0x00000594                __data_regions_array_end = .
+                0x00000594                __bss_regions_array_start = .
+                0x00000594        0x4 LONG 0x1ffff078 ADDR (.bss)
+                0x00000598        0x4 LONG 0x1ffff118 (ADDR (.bss) + SIZEOF (.bss))
+                0x0000059c        0x4 LONG 0x0 ADDR (.bss_CCMRAM)
+                0x000005a0        0x4 LONG 0x0 (ADDR (.bss_CCMRAM) + SIZEOF (.bss_CCMRAM))
+                0x000005a4                __bss_regions_array_end = .
+ *(.init)
+ *(.fini)
+                0x000005a4                . = ALIGN (0x4)
+                0x000005a4                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array_sysinit .preinit_array_sysinit.*)
+ *(.preinit_array_platform .preinit_array_platform.*)
+ *(.preinit_array .preinit_array.*)
+                0x000005a4                PROVIDE (__preinit_array_end, .)
+                0x000005a4                . = ALIGN (0x4)
+                0x000005a4                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x000005a4                PROVIDE (__init_array_end, .)
+                0x000005a4                . = ALIGN (0x4)
+                0x000005a4                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x000005a4                PROVIDE (__fini_array_end, .)
+
+.flashtext
+ *(.flashtext .flashtext.*)
+
+.text           0x000005a4      0xf87
+ *(.text .text.*)
+ .text.blink_led_init
+                0x000005a4       0x38 src\BlinkLed.o
+                0x000005a4                blink_led_init
+ .text.timer_start
+                0x000005dc       0x44 src\Timer.o
+                0x000005dc                timer_start
+ .text.timer_sleep
+                0x00000620       0x14 src\Timer.o
+                0x00000620                timer_sleep
+ .text.timer_tick
+                0x00000634       0x18 src\Timer.o
+                0x00000634                timer_tick
+ .text.SysTick_Handler
+                0x0000064c        0x8 src\Timer.o
+                0x0000064c                SysTick_Handler
+ .text.main     0x00000654       0x68 src\main.o
+                0x00000654                main
+ .text.SystemInit
+                0x000006bc       0x5c system\src\cmsis\system_MKL25Z4.o
+                0x000006bc                SystemInit
+ .text.SystemCoreClockUpdate
+                0x00000718      0x144 system\src\cmsis\system_MKL25Z4.o
+                0x00000718                SystemCoreClockUpdate
+ .text.__initialize_hardware_early
+                0x0000085c        0x8 system\src\cortexm\_initialize_hardware.o
+                0x0000085c                __initialize_hardware_early
+ .text.__initialize_hardware
+                0x00000864        0x8 system\src\cortexm\_initialize_hardware.o
+                0x00000864                __initialize_hardware
+ .text.dumpExceptionStack
+                0x0000086c       0x88 system\src\cortexm\exception_handlers.o
+                0x0000086c                dumpExceptionStack
+ .text.trace_printf
+                0x000008f4       0x2c system\src\diag\Trace.o
+                0x000008f4                trace_printf
+ .text.trace_puts
+                0x00000920       0x20 system\src\diag\Trace.o
+                0x00000920                trace_puts
+ .text._trace_write_semihosting_debug
+                0x00000940       0x60 system\src\diag\trace_impl.o
+ .text.trace_write
+                0x000009a0        0x8 system\src\diag\trace_impl.o
+                0x000009a0                trace_write
+ .text._exit    0x000009a8        0x2 system\src\newlib\_exit.o
+                0x000009a8                _exit
+ *fill*         0x000009aa        0x2 
+ .text._sbrk    0x000009ac       0x48 system\src\newlib\_sbrk.o
+                0x000009ac                _sbrk
+ .text.__initialize_args
+                0x000009f4       0x10 system\src\newlib\_syscalls.o
+                0x000009f4                __initialize_args
+ .text          0x00000a04      0x114 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+                0x00000a04                __aeabi_uidiv
+                0x00000a04                __udivsi3
+                0x00000b10                __aeabi_uidivmod
+ .text          0x00000b18        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+                0x00000b18                __aeabi_idiv0
+                0x00000b18                __aeabi_ldiv0
+ .text.__errno  0x00000b1c        0xc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-errno.o)
+                0x00000b1c                __errno
+ .text          0x00000b28        0xe c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-strlen.o)
+                0x00000b28                strlen
+ .text._vsnprintf_r
+                0x00000b36       0x56 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-vsnprintf.o)
+                0x00000b36                _vsniprintf_r
+                0x00000b36                _vsnprintf_r
+ .text.vsnprintf
+                0x00000b8c       0x18 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-vsnprintf.o)
+                0x00000b8c                vsniprintf
+                0x00000b8c                vsnprintf
+ .text._malloc_r
+                0x00000ba4       0xbc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x00000ba4                _malloc_r
+ .text.__ssputs_r
+                0x00000c60       0xc4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x00000c60                __ssputs_r
+ .text._svfprintf_r
+                0x00000d24      0x208 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x00000d24                _svfiprintf_r
+                0x00000d24                _svfprintf_r
+ .text._printf_common
+                0x00000f2c       0xda c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000f2c                _printf_common
+ *fill*         0x00001006        0x2 
+ .text._printf_i
+                0x00001008      0x234 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00001008                _printf_i
+ .text._sbrk_r  0x0000123c       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-sbrkr.o)
+                0x0000123c                _sbrk_r
+ .text.memchr   0x00001260       0x16 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memchr-stub.o)
+                0x00001260                memchr
+ .text.memcpy   0x00001276       0x12 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memcpy-stub.o)
+                0x00001276                memcpy
+ .text.memmove  0x00001288       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memmove.o)
+                0x00001288                memmove
+ .text.__malloc_lock
+                0x000012ac        0x2 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-mlock.o)
+                0x000012ac                __malloc_lock
+ .text.__malloc_unlock
+                0x000012ae        0x2 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-mlock.o)
+                0x000012ae                __malloc_unlock
+ .text._free_r  0x000012b0       0x94 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-freer.o)
+                0x000012b0                _free_r
+ .text._realloc_r
+                0x00001344       0x4c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-reallocr.o)
+                0x00001344                _realloc_r
+ .text._malloc_usable_size_r
+                0x00001390       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-msizer.o)
+                0x00001390                _malloc_usable_size_r
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.main.str1.4
+                0x000013a0       0x37 src\main.o
+ *fill*         0x000013d7        0x1 
+ .rodata.dumpExceptionStack.str1.4
+                0x000013d8       0xae system\src\cortexm\exception_handlers.o
+ *fill*         0x00001486        0x2 
+ .rodata.str1.4
+                0x00001488        0xd system\src\cortexm\exception_handlers.o
+ .rodata.trace_puts.str1.4
+                0x00001495       0x10 system\src\diag\Trace.o
+                                  0x2 (size before relaxing)
+ *fill*         0x00001495        0x3 
+ .rodata.__sf_fake_stderr
+                0x00001498       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+                0x00001498                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x000014b8       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+                0x000014b8                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x000014d8       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+                0x000014d8                __sf_fake_stdout
+ .rodata._svfprintf_r.str1.1
+                0x000014f8       0x11 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .rodata._printf_i.str1.1
+                0x00001509       0x22 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ *(vtable)
+ *(.eh_frame*)
+ *(.glue_7)
+ .glue_7        0x0000152b        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000152b        0x0 linker stubs
+
+.vfp11_veneer   0x0000152c        0x0
+ .vfp11_veneer  0x0000152c        0x0 linker stubs
+
+.v4_bx          0x0000152c        0x0
+ .v4_bx         0x0000152c        0x0 linker stubs
+
+.iplt           0x0000152c        0x0
+ .iplt          0x0000152c        0x0 src\BlinkLed.o
+
+.rel.dyn        0x0000152c        0x0
+ .rel.iplt      0x0000152c        0x0 src\BlinkLed.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000152c                . = ALIGN (0x4)
+                0x0000152c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000152c                __exidx_end = .
+                0x0000152c                . = ALIGN (0x4)
+                0x0000152c                _etext = .
+                0x0000152c                __etext = .
+
+.data_CCMRAM    0x00000000        0x0 load address 0x0000152c
+ FILL mask 0xff
+ *(.data.CCMRAM .data.CCMRAM.*)
+                0x00000000                . = ALIGN (0x4)
+                0x0000152c                _sidata = LOADADDR (.data)
+
+.data           0x1ffff000       0x78 load address 0x0000152c
+ FILL mask 0xff
+                0x1ffff000                _sdata = .
+                0x1ffff000                __data_start__ = .
+ *(.data_begin .data_begin.*)
+ .data_begin    0x1ffff000        0x4 system\src\newlib\_startup.o
+ *(.data .data.*)
+ .data.SystemCoreClock
+                0x1ffff004        0x4 system\src\cmsis\system_MKL25Z4.o
+                0x1ffff004                SystemCoreClock
+ .data.argv.4263
+                0x1ffff008        0x8 system\src\newlib\_syscalls.o
+ .data._impure_ptr
+                0x1ffff010        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-impure.o)
+                0x1ffff010                _impure_ptr
+ .data.impure_data
+                0x1ffff014       0x60 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-impure.o)
+ *(.data_end .data_end.*)
+ .data_end      0x1ffff074        0x4 system\src\newlib\_startup.o
+                0x1ffff078                . = ALIGN (0x4)
+                0x1ffff078                _edata = .
+                0x1ffff078                __data_end__ = .
+
+.igot.plt       0x1ffff078        0x0 load address 0x000015a4
+ .igot.plt      0x1ffff078        0x0 src\BlinkLed.o
+
+.bss_CCMRAM     0x00000000        0x0
+ *(.bss.CCMRAM .bss.CCMRAM.*)
+
+.bss            0x1ffff078       0xa0
+                0x1ffff078                __bss_start__ = .
+                0x1ffff078                _sbss = .
+ *(.bss_begin .bss_begin.*)
+ .bss_begin     0x1ffff078        0x4 system\src\newlib\_startup.o
+ *(.bss .bss.*)
+ .bss.buf.5152  0x1ffff07c       0x80 system\src\diag\Trace.o
+ .bss.current_heap_end.3947
+                0x1ffff0fc        0x4 system\src\newlib\_sbrk.o
+ .bss.name.4262
+                0x1ffff100        0x1 system\src\newlib\_syscalls.o
+ *fill*         0x1ffff101        0x3 
+ .bss.__malloc_free_list
+                0x1ffff104        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x1ffff104                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x1ffff108        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x1ffff108                __malloc_sbrk_start
+ *(COMMON)
+ COMMON         0x1ffff10c        0x4 src\Timer.o
+                0x1ffff10c                timer_delayCount
+ COMMON         0x1ffff110        0x4 system\src\newlib\_syscalls.o
+                0x1ffff110                errno
+ *(.bss_end .bss_end.*)
+ .bss_end       0x1ffff114        0x4 system\src\newlib\_startup.o
+                0x1ffff118                . = ALIGN (0x4)
+                0x1ffff118                __bss_end__ = .
+                0x1ffff118                _ebss = .
+
+.noinit_CCMRAM
+ *(.noinit.CCMRAM .noinit.CCMRAM.*)
+
+.noinit         0x1ffff118        0x0
+                0x1ffff118                _noinit = .
+ *(.noinit .noinit.*)
+                0x1ffff118                . = ALIGN (0x4)
+                0x1ffff118                _end_noinit = .
+                [!provide]                PROVIDE (end, _end_noinit)
+                [!provide]                PROVIDE (_end, _end_noinit)
+                [!provide]                PROVIDE (__end, _end_noinit)
+                [!provide]                PROVIDE (__end__, _end_noinit)
+
+._check_stack   0x1ffff118      0x100
+                0x1ffff218                . = (. + _Minimum_Stack_Size)
+ *fill*         0x1ffff118      0x100 
+
+.b1text
+ *(.b1text)
+ *(.b1rodata)
+ *(.b1rodata.*)
+
+.eb0text
+ *(.eb0text)
+ *(.eb0rodata)
+ *(.eb0rodata.*)
+
+.eb1text
+ *(.eb1text)
+ *(.eb1rodata)
+ *(.eb1rodata.*)
+
+.eb2text
+ *(.eb2text)
+ *(.eb2rodata)
+ *(.eb2rodata.*)
+
+.eb3text
+ *(.eb3text)
+ *(.eb3rodata)
+ *(.eb3rodata.*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x7f
+ *(.comment)
+ .comment       0x00000000       0x7f src\BlinkLed.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 src\Timer.o
+ .comment       0x0000007f       0x80 src\main.o
+ .comment       0x0000007f       0x80 system\src\cmsis\system_MKL25Z4.o
+ .comment       0x0000007f       0x80 system\src\cmsis\vectors_MKL25Z4.o
+ .comment       0x0000007f       0x80 system\src\cortexm\_initialize_hardware.o
+ .comment       0x0000007f       0x80 system\src\cortexm\exception_handlers.o
+ .comment       0x0000007f       0x80 system\src\diag\Trace.o
+ .comment       0x0000007f       0x80 system\src\diag\trace_impl.o
+ .comment       0x0000007f       0x80 system\src\newlib\_exit.o
+ .comment       0x0000007f       0x80 system\src\newlib\_sbrk.o
+ .comment       0x0000007f       0x80 system\src\newlib\_startup.o
+ .comment       0x0000007f       0x80 system\src\newlib\_syscalls.o
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x32 src\BlinkLed.o
+ .ARM.attributes
+                0x00000032       0x32 src\Timer.o
+ .ARM.attributes
+                0x00000064       0x32 src\main.o
+ .ARM.attributes
+                0x00000096       0x32 system\src\cmsis\system_MKL25Z4.o
+ .ARM.attributes
+                0x000000c8       0x32 system\src\cmsis\vectors_MKL25Z4.o
+ .ARM.attributes
+                0x000000fa       0x32 system\src\cortexm\_initialize_hardware.o
+ .ARM.attributes
+                0x0000012c       0x32 system\src\cortexm\exception_handlers.o
+ .ARM.attributes
+                0x0000015e       0x32 system\src\diag\Trace.o
+ .ARM.attributes
+                0x00000190       0x32 system\src\diag\trace_impl.o
+ .ARM.attributes
+                0x000001c2       0x32 system\src\newlib\_exit.o
+ .ARM.attributes
+                0x000001f4       0x32 system\src\newlib\_sbrk.o
+ .ARM.attributes
+                0x00000226       0x32 system\src\newlib\_startup.o
+ .ARM.attributes
+                0x00000258       0x32 system\src\newlib\_syscalls.o
+ .ARM.attributes
+                0x0000028a       0x1e c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000002a8       0x1e c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000002c6       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000002f2       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000031e       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000033a       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-vsnprintf.o)
+ .ARM.attributes
+                0x00000366       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x00000392       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000003be       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x000003ea       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000416       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000442       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x0000046e       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000049a       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000004c6       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000004f2       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000051e       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000054a       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-msizer.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x260
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 src\BlinkLed.o
+ .debug_aranges
+                0x00000020       0x38 src\Timer.o
+ .debug_aranges
+                0x00000058       0x20 src\main.o
+ .debug_aranges
+                0x00000078       0x28 system\src\cmsis\system_MKL25Z4.o
+ .debug_aranges
+                0x000000a0       0x20 system\src\cmsis\vectors_MKL25Z4.o
+ .debug_aranges
+                0x000000c0       0x28 system\src\cortexm\_initialize_hardware.o
+ .debug_aranges
+                0x000000e8       0x58 system\src\cortexm\exception_handlers.o
+ .debug_aranges
+                0x00000140       0x38 system\src\diag\Trace.o
+ .debug_aranges
+                0x00000178       0x30 system\src\diag\trace_impl.o
+ .debug_aranges
+                0x000001a8       0x28 system\src\newlib\_exit.o
+ .debug_aranges
+                0x000001d0       0x20 system\src\newlib\_sbrk.o
+ .debug_aranges
+                0x000001f0       0x40 system\src\newlib\_startup.o
+ .debug_aranges
+                0x00000230       0x30 system\src\newlib\_syscalls.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x53a5
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x38e src\BlinkLed.o
+ .debug_info    0x0000038e      0x47b src\Timer.o
+ .debug_info    0x00000809      0xabf src\main.o
+ .debug_info    0x000012c8      0x3e9 system\src\cmsis\system_MKL25Z4.o
+ .debug_info    0x000016b1       0xf8 system\src\cmsis\vectors_MKL25Z4.o
+ .debug_info    0x000017a9       0xec system\src\cortexm\_initialize_hardware.o
+ .debug_info    0x00001895      0xb95 system\src\cortexm\exception_handlers.o
+ .debug_info    0x0000242a      0xb31 system\src\diag\Trace.o
+ .debug_info    0x00002f5b      0x350 system\src\diag\trace_impl.o
+ .debug_info    0x000032ab      0x95d system\src\newlib\_exit.o
+ .debug_info    0x00003c08      0x949 system\src\newlib\_sbrk.o
+ .debug_info    0x00004551      0x434 system\src\newlib\_startup.o
+ .debug_info    0x00004985      0xa20 system\src\newlib\_syscalls.o
+
+.debug_abbrev   0x00000000     0x15db
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x102 src\BlinkLed.o
+ .debug_abbrev  0x00000102      0x1ba src\Timer.o
+ .debug_abbrev  0x000002bc      0x233 src\main.o
+ .debug_abbrev  0x000004ef      0x116 system\src\cmsis\system_MKL25Z4.o
+ .debug_abbrev  0x00000605       0xae system\src\cmsis\vectors_MKL25Z4.o
+ .debug_abbrev  0x000006b3       0x81 system\src\cortexm\_initialize_hardware.o
+ .debug_abbrev  0x00000734      0x28f system\src\cortexm\exception_handlers.o
+ .debug_abbrev  0x000009c3      0x276 system\src\diag\Trace.o
+ .debug_abbrev  0x00000c39      0x1bb system\src\diag\trace_impl.o
+ .debug_abbrev  0x00000df4      0x1f3 system\src\newlib\_exit.o
+ .debug_abbrev  0x00000fe7      0x1fc system\src\newlib\_sbrk.o
+ .debug_abbrev  0x000011e3      0x1c4 system\src\newlib\_startup.o
+ .debug_abbrev  0x000013a7      0x234 system\src\newlib\_syscalls.o
+
+.debug_line     0x00000000     0x273f
+ *(.debug_line)
+ .debug_line    0x00000000      0x163 src\BlinkLed.o
+ .debug_line    0x00000163      0x1e3 src\Timer.o
+ .debug_line    0x00000346      0x469 src\main.o
+ .debug_line    0x000007af      0x1af system\src\cmsis\system_MKL25Z4.o
+ .debug_line    0x0000095e      0x107 system\src\cmsis\vectors_MKL25Z4.o
+ .debug_line    0x00000a65      0x180 system\src\cortexm\_initialize_hardware.o
+ .debug_line    0x00000be5      0x4a1 system\src\cortexm\exception_handlers.o
+ .debug_line    0x00001086      0x3d4 system\src\diag\Trace.o
+ .debug_line    0x0000145a      0x451 system\src\diag\trace_impl.o
+ .debug_line    0x000018ab      0x367 system\src\newlib\_exit.o
+ .debug_line    0x00001c12      0x31c system\src\newlib\_sbrk.o
+ .debug_line    0x00001f2e      0x3d6 system\src\newlib\_startup.o
+ .debug_line    0x00002304      0x43b system\src\newlib\_syscalls.o
+
+.debug_frame    0x00000000      0x800
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 src\BlinkLed.o
+ .debug_frame   0x00000020       0x60 src\Timer.o
+ .debug_frame   0x00000080       0x28 src\main.o
+ .debug_frame   0x000000a8       0x3c system\src\cmsis\system_MKL25Z4.o
+ .debug_frame   0x000000e4       0x20 system\src\cmsis\vectors_MKL25Z4.o
+ .debug_frame   0x00000104       0x40 system\src\cortexm\_initialize_hardware.o
+ .debug_frame   0x00000144       0xb0 system\src\cortexm\exception_handlers.o
+ .debug_frame   0x000001f4       0x78 system\src\diag\Trace.o
+ .debug_frame   0x0000026c       0x60 system\src\diag\trace_impl.o
+ .debug_frame   0x000002cc       0x38 system\src\newlib\_exit.o
+ .debug_frame   0x00000304       0x28 system\src\newlib\_sbrk.o
+ .debug_frame   0x0000032c       0x80 system\src\newlib\_startup.o
+ .debug_frame   0x000003ac       0x50 system\src\newlib\_syscalls.o
+ .debug_frame   0x000003fc       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000041c       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000043c       0x48 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-vsnprintf.o)
+ .debug_frame   0x00000484      0x140 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x000005c4       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x000005f0       0x74 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x00000664       0x54 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x000006b8       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x000006e4       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00000704       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000072c       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00000754       0x30 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000784       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x000007b0       0x30 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x000007e0       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a(lib_a-nano-msizer.o)
+
+.debug_str      0x00000000    0x1eb33
+ *(.debug_str)
+ .debug_str     0x00000000    0x17555 src\BlinkLed.o
+                              0x17819 (size before relaxing)
+ .debug_str     0x00017555      0x35e src\Timer.o
+                              0x178f9 (size before relaxing)
+ .debug_str     0x000178b3     0x5520 src\main.o
+                              0x1cdf1 (size before relaxing)
+ .debug_str     0x0001cdd3      0x105 system\src\cmsis\system_MKL25Z4.o
+                              0x17771 (size before relaxing)
+ .debug_str     0x0001ced8       0xf6 system\src\cmsis\vectors_MKL25Z4.o
+                               0x30e2 (size before relaxing)
+ .debug_str     0x0001cfce       0x6f system\src\cortexm\_initialize_hardware.o
+                              0x17634 (size before relaxing)
+ .debug_str     0x0001d03d      0x12c system\src\cortexm\exception_handlers.o
+                              0x1c4ee (size before relaxing)
+ .debug_str     0x0001d169      0x15d system\src\diag\Trace.o
+                               0x7c32 (size before relaxing)
+ .debug_str     0x0001d2c6      0x305 system\src\diag\trace_impl.o
+                              0x1b6c7 (size before relaxing)
+ .debug_str     0x0001d5cb       0x2e system\src\newlib\_exit.o
+                               0x744c (size before relaxing)
+ .debug_str     0x0001d5f9      0x4f5 system\src\newlib\_sbrk.o
+                               0x67fe (size before relaxing)
+ .debug_str     0x0001daee      0x229 system\src\newlib\_startup.o
+                               0x5fc0 (size before relaxing)
+ .debug_str     0x0001dd17      0xe1c system\src\newlib\_syscalls.o
+                               0x767a (size before relaxing)
+
+.debug_loc      0x00000000      0x676
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x59 src\Timer.o
+ .debug_loc     0x00000059       0x61 src\main.o
+ .debug_loc     0x000000ba       0x8e system\src\cmsis\system_MKL25Z4.o
+ .debug_loc     0x00000148       0x94 system\src\cortexm\exception_handlers.o
+ .debug_loc     0x000001dc       0xf6 system\src\diag\Trace.o
+ .debug_loc     0x000002d2      0x10a system\src\diag\trace_impl.o
+ .debug_loc     0x000003dc       0x99 system\src\newlib\_sbrk.o
+ .debug_loc     0x00000475      0x19e system\src\newlib\_startup.o
+ .debug_loc     0x00000613       0x63 system\src\newlib\_syscalls.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(LineFollower.elf elf32-littlearm)
+
+.debug_ranges   0x00000000      0x1f0
+ .debug_ranges  0x00000000       0x10 src\BlinkLed.o
+ .debug_ranges  0x00000010       0x28 src\Timer.o
+ .debug_ranges  0x00000038       0x10 src\main.o
+ .debug_ranges  0x00000048       0x18 system\src\cmsis\system_MKL25Z4.o
+ .debug_ranges  0x00000060       0x10 system\src\cmsis\vectors_MKL25Z4.o
+ .debug_ranges  0x00000070       0x18 system\src\cortexm\_initialize_hardware.o
+ .debug_ranges  0x00000088       0x48 system\src\cortexm\exception_handlers.o
+ .debug_ranges  0x000000d0       0x28 system\src\diag\Trace.o
+ .debug_ranges  0x000000f8       0x38 system\src\diag\trace_impl.o
+ .debug_ranges  0x00000130       0x18 system\src\newlib\_exit.o
+ .debug_ranges  0x00000148       0x10 system\src\newlib\_sbrk.o
+ .debug_ranges  0x00000158       0x78 system\src\newlib\_startup.o
+ .debug_ranges  0x000001d0       0x20 system\src\newlib\_syscalls.o
+
+.debug_macro    0x00000000     0x7ebb
+ .debug_macro   0x00000000       0x80 src\BlinkLed.o
+ .debug_macro   0x00000080      0x8a4 src\BlinkLed.o
+ .debug_macro   0x00000924       0x34 src\BlinkLed.o
+ .debug_macro   0x00000958      0x34e src\BlinkLed.o
+ .debug_macro   0x00000ca6       0x35 src\BlinkLed.o
+ .debug_macro   0x00000cdb       0x26 src\BlinkLed.o
+ .debug_macro   0x00000d01      0x329 src\BlinkLed.o
+ .debug_macro   0x0000102a     0x3df3 src\BlinkLed.o
+ .debug_macro   0x00004e1d       0x2e src\BlinkLed.o
+ .debug_macro   0x00004e4b       0x94 src\Timer.o
+ .debug_macro   0x00004edf       0x10 src\Timer.o
+ .debug_macro   0x00004eef      0x281 src\main.o
+ .debug_macro   0x00005170       0x22 src\main.o
+ .debug_macro   0x00005192       0x52 src\main.o
+ .debug_macro   0x000051e4       0x8d src\main.o
+ .debug_macro   0x00005271       0x35 src\main.o
+ .debug_macro   0x000052a6       0x9c src\main.o
+ .debug_macro   0x00005342       0x16 src\main.o
+ .debug_macro   0x00005358       0x57 src\main.o
+ .debug_macro   0x000053af       0x97 src\main.o
+ .debug_macro   0x00005446      0x30d src\main.o
+ .debug_macro   0x00005753       0xfd src\main.o
+ .debug_macro   0x00005850       0x10 src\main.o
+ .debug_macro   0x00005860       0x58 src\main.o
+ .debug_macro   0x000058b8       0x1f src\main.o
+ .debug_macro   0x000058d7       0x43 src\main.o
+ .debug_macro   0x0000591a       0x20 src\main.o
+ .debug_macro   0x0000593a      0x187 src\main.o
+ .debug_macro   0x00005ac1       0x10 src\main.o
+ .debug_macro   0x00005ad1       0x6a src\main.o
+ .debug_macro   0x00005b3b       0x1c src\main.o
+ .debug_macro   0x00005b57       0x52 src\main.o
+ .debug_macro   0x00005ba9       0x40 src\main.o
+ .debug_macro   0x00005be9       0x10 src\main.o
+ .debug_macro   0x00005bf9       0x40 src\main.o
+ .debug_macro   0x00005c39       0xd7 src\main.o
+ .debug_macro   0x00005d10       0x16 src\main.o
+ .debug_macro   0x00005d26      0x18b src\main.o
+ .debug_macro   0x00005eb1       0x16 src\main.o
+ .debug_macro   0x00005ec7       0x35 src\main.o
+ .debug_macro   0x00005efc       0x16 src\main.o
+ .debug_macro   0x00005f12       0x29 src\main.o
+ .debug_macro   0x00005f3b       0x16 src\main.o
+ .debug_macro   0x00005f51      0x51a src\main.o
+ .debug_macro   0x0000646b       0x8f system\src\cmsis\system_MKL25Z4.o
+ .debug_macro   0x000064fa       0x3b system\src\cmsis\system_MKL25Z4.o
+ .debug_macro   0x00006535       0x52 system\src\cmsis\vectors_MKL25Z4.o
+ .debug_macro   0x00006587       0x7b system\src\cortexm\_initialize_hardware.o
+ .debug_macro   0x00006602      0x21d system\src\cortexm\exception_handlers.o
+ .debug_macro   0x0000681f       0x22 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00006841       0x10 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00006851       0xcf system\src\cortexm\exception_handlers.o
+ .debug_macro   0x00006920       0xbe system\src\cortexm\exception_handlers.o
+ .debug_macro   0x000069de       0x10 system\src\cortexm\exception_handlers.o
+ .debug_macro   0x000069ee      0x1e4 system\src\diag\Trace.o
+ .debug_macro   0x00006bd2       0x4c system\src\diag\Trace.o
+ .debug_macro   0x00006c1e       0x16 system\src\diag\Trace.o
+ .debug_macro   0x00006c34      0x1dd system\src\diag\trace_impl.o
+ .debug_macro   0x00006e11      0x1a7 system\src\newlib\_exit.o
+ .debug_macro   0x00006fb8      0x10e system\src\newlib\_exit.o
+ .debug_macro   0x000070c6       0x8d system\src\newlib\_exit.o
+ .debug_macro   0x00007153      0x15c system\src\newlib\_sbrk.o
+ .debug_macro   0x000072af      0x174 system\src\newlib\_sbrk.o
+ .debug_macro   0x00007423       0x10 system\src\newlib\_sbrk.o
+ .debug_macro   0x00007433      0x23b system\src\newlib\_sbrk.o
+ .debug_macro   0x0000766e      0x166 system\src\newlib\_startup.o
+ .debug_macro   0x000077d4      0x20a system\src\newlib\_syscalls.o
+ .debug_macro   0x000079de       0x1c system\src\newlib\_syscalls.o
+ .debug_macro   0x000079fa       0x10 system\src\newlib\_syscalls.o
+ .debug_macro   0x00007a0a       0x10 system\src\newlib\_syscalls.o
+ .debug_macro   0x00007a1a       0x10 system\src\newlib\_syscalls.o
+ .debug_macro   0x00007a2a       0x35 system\src\newlib\_syscalls.o
+ .debug_macro   0x00007a5f      0x122 system\src\newlib\_syscalls.o
+ .debug_macro   0x00007b81       0x88 system\src\newlib\_syscalls.o
+ .debug_macro   0x00007c09       0x2b system\src\newlib\_syscalls.o
+ .debug_macro   0x00007c34      0x118 system\src\newlib\_syscalls.o
+ .debug_macro   0x00007d4c      0x159 system\src\newlib\_syscalls.o
+ .debug_macro   0x00007ea5       0x16 system\src\newlib\_syscalls.o
